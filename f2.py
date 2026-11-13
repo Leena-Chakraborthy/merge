@@ -1,1 +1,1 @@
-print("Hello, World! this is f2.py")
+print("Hello, World!")
