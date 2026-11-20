@@ -1,1 +1,1 @@
-print("pagal")
+print("pagalfrewf2e")
